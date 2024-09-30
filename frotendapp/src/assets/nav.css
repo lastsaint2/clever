@@ -1,0 +1,33 @@
+nav{
+   
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-left: 20cm;
+    margin-right:3cm; 
+    background-color: black;
+   
+}
+nav li{
+    margin-top: -2cm;
+}
+li a{
+    color:black;
+}
+
+.p{
+    color: orange;
+}
+
+a{
+    text-decoration: none;
+}
+.logo{
+    
+   margin-right: 30cm;
+ 
+}
+.f{
+    color: orange;
+}
+
